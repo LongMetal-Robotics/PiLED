@@ -28,6 +28,7 @@ def LED_value_changed(source, key, value, isNew):
     print(result)
 
 ledTable.addEntryListener(LED_value_changed, True, "trigger")
+matrix.display("image", "boot.png")
 
 print("Press Ctrl+C to exit")
 while True:
