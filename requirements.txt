@@ -16,7 +16,7 @@ pylint==2.4.4
 pynetworktables==2019.0.2
 requests==2.23.0
 six==1.13.0
-urllib3==1.25.8
+urllib3==1.26.5
 wrapt==1.11.2
 youtube-dl==2020.2.16
 zeroconf==0.24.4
